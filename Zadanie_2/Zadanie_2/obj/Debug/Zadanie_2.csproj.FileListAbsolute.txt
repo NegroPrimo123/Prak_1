@@ -1,0 +1,7 @@
+C:\Users\Микокон\source\repos\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.exe.config
+C:\Users\Микокон\source\repos\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.exe
+C:\Users\Микокон\source\repos\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.pdb
+C:\Users\Микокон\source\repos\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.csproj.AssemblyReference.cache
+C:\Users\Микокон\source\repos\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.csproj.CoreCompileInputs.cache
+C:\Users\Микокон\source\repos\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.exe
+C:\Users\Микокон\source\repos\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.pdb

@@ -1,0 +1,2 @@
+C:\Users\Микокон\source\repos\Zadanie_1\Zadanie_1\obj\Debug\Zadanie_1.csproj.AssemblyReference.cache
+C:\Users\Микокон\source\repos\Zadanie_1\Zadanie_1\obj\Debug\Zadanie_1.csproj.CoreCompileInputs.cache
